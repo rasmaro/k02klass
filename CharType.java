@@ -1,0 +1,3 @@
+enum CharType {
+	PLAYER, MONSTER
+}
